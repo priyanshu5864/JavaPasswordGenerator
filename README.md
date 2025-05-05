@@ -29,5 +29,4 @@ A customizable and secure password generator built in Java. Users can define pas
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/priyanshu5864/password-generator-java.git
-   cd password-generator-java
+   git clone https://github.com/priyanshu5864/JavaPasswordGenerator
